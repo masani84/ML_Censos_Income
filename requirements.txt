@@ -1,0 +1,8 @@
+numpy
+pandas
+Flask
+seaborn
+Flask
+scikit-learn
+imbalanced-learn
+-e .
